@@ -1,3 +1,5 @@
+// again, I don't know why but the delays are much too short on my computer, so I increased them to 500 ms per iteration
+
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 500);
